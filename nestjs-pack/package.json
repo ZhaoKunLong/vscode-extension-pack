@@ -1,0 +1,22 @@
+{
+  "name": "nestjs-pack",
+  "displayName": "nestjs-pack",
+  "description": "when develop nestjs enable it",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "GrapeCity.gc-excelviewer",
+    "Prisma.prisma",
+    "redhat.vscode-yaml",
+    "roerohan.mongo-snippets-for-node-js",
+    "shakram02.bash-beautify",
+    "ashinzekene.nestjs"
+  ]
+}
