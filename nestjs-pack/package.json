@@ -4,7 +4,7 @@
   "description": "when develop nestjs enable it",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.68.0"
   },
   "categories": [
     "Extension Packs"
