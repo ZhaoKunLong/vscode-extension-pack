@@ -5,7 +5,7 @@
   "description": "common extension for develope",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.68.0"
   },
   "categories": [
     "Extension Packs"
@@ -28,7 +28,6 @@
     "me-dutour-mathieu.vscode-github-actions",
     "mervin.markdown-formatter",
     "ms-azuretools.vscode-docker",
-    "MS-CEINTL.vscode-language-pack-zh-hans",
     "ms-vscode-remote.remote-containers",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
